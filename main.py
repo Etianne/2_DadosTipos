@@ -1,4 +1,5 @@
 # Tipo de dados: str
+
 nome = "Luca"
 sobrenome = "Alves"
 print(nome + " " + sobrenome)
